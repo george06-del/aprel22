@@ -1,1 +1,5 @@
-print('123')
+
+
+
+for i in 4:
+    print(ш)
