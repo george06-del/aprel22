@@ -1,4 +1,5 @@
 
+print('this is c')
 print("какой-тш текст")
 
 for i in 4:
